@@ -127,4 +127,4 @@ This runs the classic menu + full game loop version, with colored text straight 
 
 ## Credits
 
-Built by [Your Name] and [Friend's Name].
+Built by Maryam Amir and Sara Shahzad.
